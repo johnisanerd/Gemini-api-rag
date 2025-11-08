@@ -1,0 +1,8 @@
+# Google Gemini API
+google-genai>=0.2.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# HTTP requests for Apify API
+requests>=2.31.0
